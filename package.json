@@ -1,0 +1,27 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal Portfolio code for http://rohinadalja.com",
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop -o",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohinadalja/rohinadalja.com-v2.git"
+  },
+  "keywords": [
+    "rohin adalja",
+    "personal",
+    "profile",
+    "website",
+    "rohinadalja.com"
+  ],
+  "author": "Rohin Adalja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohinadalja/rohinadalja.com-v2/issues"
+  },
+  "homepage": "https://github.com/rohinadalja/rohinadalja.com-v2"
+}
