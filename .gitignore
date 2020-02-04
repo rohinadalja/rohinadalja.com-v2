@@ -6,3 +6,5 @@
 *.log
 .env*
 node_modules/
+.cache/
+public/
