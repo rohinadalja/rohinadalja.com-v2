@@ -6,7 +6,7 @@
     "start": "gatsby develop -o",
     "serve": "gatsby serve",
     "build": "gatsby build",
-    "clean": "gatsby clean",
+    "clean": "gatsby clean && gatsby develop -o",
     "lint": "eslint ."
   },
   "repository": {
