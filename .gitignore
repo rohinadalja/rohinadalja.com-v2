@@ -4,4 +4,7 @@
 .TemporaryItems
 .Trashes
 *.log
+.env*
 node_modules/
+.cache/
+public/
