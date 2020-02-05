@@ -50,7 +50,7 @@ export default () => {
           <div>{skills2}</div>
           <div>{skills3}</div>
           <h3></h3>
-          <Button href={linkto2}>
+          <Button as={AnchorLink} href={linkto2}>
             {action2}
           </Button><em> </em>
           <Button as={AnchorLink} href={linkto3}>
