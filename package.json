@@ -27,19 +27,19 @@
   },
   "homepage": "https://github.com/rohinadalja/rohinadalja.com-v2",
   "dependencies": {
-    "change-case": "^4.1.1",
-    "gatsby": "^2.13.2",
+    "change-case": "^4.1.2",
+    "gatsby": "^2.32.13",
     "gatsby-theme-portfolio": "^1.2.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "to-style": "^1.3.3"
   },
   "devDependencies": {
-    "eslint": "^6.1.0",
-    "eslint-config-airbnb": "^18.0.1",
-    "eslint-plugin-import": "^2.20.1",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.18.3",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.1",
     "eslint-plugin-react-hooks": "^1.7.0"
   }
 }
