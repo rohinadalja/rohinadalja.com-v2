@@ -10,11 +10,7 @@ export default () => (
       <Details>
         <h2>{defaultTitle}</h2>
         <span>
-          © All rights are reserved | {new Date().getFullYear()} | Made with{" "}
-          <span aria-label="love" role="img">
-            💚
-          </span>{" "}
-          by{" "}
+          © {new Date().getFullYear()} | Developer:{" "}
           <a
             href="mailto:contact@rohinadalja.com"
             rel="noopener noreferrer"
